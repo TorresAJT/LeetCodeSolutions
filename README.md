@@ -7,3 +7,8 @@ Completed Problems
  - _2. Add Two Numbers_
  - _9. Palindrome Number_
  - _13. Roman to Integer_
+
+**January 20, 2022**
+
+Completed Problems
+- _14. Longest Common Prefix_
